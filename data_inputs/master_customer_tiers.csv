@@ -1,0 +1,9 @@
+Customer,Priority,Segment
+Microsoft,1,Data Center
+Meta,1,Data Center
+Tesla,2,Automotive
+Siemens,3,Healthcare
+Foxconn,4,Industrial
+Dell,5,Pro Viz
+ASUS,7,Gaming OEM
+Best Buy,9,Gaming Retail

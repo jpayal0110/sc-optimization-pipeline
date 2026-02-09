@@ -1,0 +1,188 @@
+date,order_id,product_type,quantity,Customer
+2026-01-01,ORD-3AFC3F,Advanced_Chip,84,Dell
+2026-01-03,ORD-6FC4E0,Advanced_Chip,67,Tesla
+2026-01-05,ORD-96B242,Advanced_Chip,64,Meta
+2026-01-06,ORD-7DACCA,Advanced_Chip,48,Best Buy
+2026-01-07,ORD-E425D2,Advanced_Chip,18,Tesla
+2026-01-08,ORD-C34BCA,Advanced_Chip,80,Tesla
+2026-01-09,ORD-177B14,Advanced_Chip,45,Microsoft
+2026-01-10,ORD-47F931,Advanced_Chip,13,ASUS
+2026-01-11,ORD-5BD2C8,Advanced_Chip,23,ASUS
+2026-01-12,ORD-41102F,Advanced_Chip,71,Microsoft
+2026-01-13,ORD-79BFEF,Advanced_Chip,35,Best Buy
+2026-01-16,ORD-AFB95D,Advanced_Chip,50,Dell
+2026-01-18,ORD-287AB8,Advanced_Chip,44,ASUS
+2026-01-19,ORD-A5F512,Advanced_Chip,23,ASUS
+2026-01-21,ORD-457445,Advanced_Chip,32,Dell
+2026-01-22,ORD-6FA7D0,Advanced_Chip,80,ASUS
+2026-01-23,ORD-518001,Advanced_Chip,66,ASUS
+2026-01-24,ORD-7B775E,Advanced_Chip,71,Meta
+2026-01-25,ORD-929471,Advanced_Chip,36,Dell
+2026-01-26,ORD-060326,Advanced_Chip,36,Meta
+2026-01-27,ORD-5B88EC,Advanced_Chip,88,Tesla
+2026-01-28,ORD-093DB1,Advanced_Chip,71,ASUS
+2026-01-29,ORD-836E78,Advanced_Chip,65,Best Buy
+2026-01-30,ORD-CBBCC9,Advanced_Chip,10,Foxconn
+2026-01-31,ORD-39834A,Advanced_Chip,41,Siemens
+2026-02-01,ORD-B9DD75,Advanced_Chip,33,Siemens
+2026-02-02,ORD-FB735C,Advanced_Chip,25,ASUS
+2026-02-03,ORD-4B39DC,Advanced_Chip,68,Foxconn
+2026-02-04,ORD-058BD0,Advanced_Chip,80,Meta
+2026-02-05,ORD-4DF03B,Advanced_Chip,10,Tesla
+2026-02-06,ORD-6BB37D,Advanced_Chip,16,Best Buy
+2026-02-07,ORD-4E0398,Advanced_Chip,57,Meta
+2026-02-08,ORD-895F0B,Advanced_Chip,28,Siemens
+2026-02-09,ORD-91C0FB,Advanced_Chip,84,ASUS
+2026-02-10,ORD-C2E4A9,Advanced_Chip,34,Dell
+2026-02-11,ORD-7CC6FC,Advanced_Chip,44,Microsoft
+2026-02-12,ORD-755263,Advanced_Chip,57,Best Buy
+2026-02-13,ORD-1C2819,Advanced_Chip,57,Dell
+2026-02-14,ORD-69A801,Advanced_Chip,47,ASUS
+2026-02-15,ORD-465D10,Advanced_Chip,37,ASUS
+2026-02-16,ORD-B3B1B0,Advanced_Chip,44,Microsoft
+2026-02-17,ORD-77B17D,Advanced_Chip,15,Best Buy
+2026-02-18,ORD-E6A52B,Advanced_Chip,69,Meta
+2026-02-19,ORD-8AC4ED,Advanced_Chip,27,Best Buy
+2026-02-20,ORD-F20672,Advanced_Chip,33,Siemens
+2026-02-21,ORD-4CD2E6,Advanced_Chip,26,Meta
+2026-02-22,ORD-C26105,Advanced_Chip,51,Foxconn
+2026-02-23,ORD-9FE14E,Advanced_Chip,16,Foxconn
+2026-02-24,ORD-F5540A,Advanced_Chip,85,Tesla
+2026-02-25,ORD-DA5544,Advanced_Chip,72,Tesla
+2026-02-26,ORD-251CF3,Advanced_Chip,58,ASUS
+2026-02-27,ORD-5E00A4,Advanced_Chip,17,Meta
+2026-03-01,ORD-53ED92,Advanced_Chip,39,Dell
+2026-03-02,ORD-5B9E6D,Advanced_Chip,64,Siemens
+2026-03-03,ORD-A825D3,Advanced_Chip,21,Foxconn
+2026-03-04,ORD-839AF6,Advanced_Chip,57,Siemens
+2026-03-05,ORD-3B7FCF,Advanced_Chip,78,Microsoft
+2026-03-06,ORD-D97120,Advanced_Chip,66,Tesla
+2026-03-08,ORD-3E4EE6,Advanced_Chip,48,ASUS
+2026-03-09,ORD-E18679,Advanced_Chip,43,Microsoft
+2026-03-10,ORD-FBC8EA,Advanced_Chip,78,ASUS
+2026-03-11,ORD-94298F,Advanced_Chip,41,Dell
+2026-03-12,ORD-596B47,Advanced_Chip,42,Tesla
+2026-03-13,ORD-399504,Advanced_Chip,83,Dell
+2026-03-14,ORD-616037,Advanced_Chip,11,ASUS
+2026-03-16,ORD-72D019,Advanced_Chip,16,Dell
+2026-03-17,ORD-753B69,Advanced_Chip,45,ASUS
+2026-03-18,ORD-08B3FB,Advanced_Chip,45,Foxconn
+2026-03-19,ORD-89D559,Advanced_Chip,46,Microsoft
+2026-03-20,ORD-829E03,Advanced_Chip,26,Meta
+2026-03-21,ORD-483E75,Advanced_Chip,28,Tesla
+2026-03-23,ORD-423EA7,Advanced_Chip,25,ASUS
+2026-03-24,ORD-693DF9,Advanced_Chip,32,Meta
+2026-03-25,ORD-609662,Advanced_Chip,48,Microsoft
+2026-03-26,ORD-B73789,Advanced_Chip,27,Dell
+2026-03-27,ORD-D3548E,Advanced_Chip,16,Foxconn
+2026-03-28,ORD-8CE541,Advanced_Chip,75,Best Buy
+2026-03-29,ORD-EBE5BC,Advanced_Chip,74,ASUS
+2026-03-30,ORD-4F01D9,Advanced_Chip,45,Best Buy
+2026-03-31,ORD-1B9566,Advanced_Chip,83,Dell
+2026-04-02,ORD-08832B,Advanced_Chip,12,Meta
+2026-04-03,ORD-EAE7A4,Advanced_Chip,67,Tesla
+2026-04-04,ORD-3357D2,Advanced_Chip,84,Meta
+2026-04-06,ORD-5E77E7,Advanced_Chip,12,Siemens
+2026-04-08,ORD-DDA967,Advanced_Chip,45,Tesla
+2026-04-09,ORD-C72E3B,Advanced_Chip,73,Microsoft
+2026-04-10,ORD-5C15A0,Advanced_Chip,38,Foxconn
+2026-04-11,ORD-1EDD5A,Advanced_Chip,78,Siemens
+2026-04-12,ORD-546B3D,Advanced_Chip,14,Tesla
+2026-04-13,ORD-CC018D,Advanced_Chip,58,ASUS
+2026-04-14,ORD-430994,Advanced_Chip,58,Siemens
+2026-04-15,ORD-BECBC7,Advanced_Chip,30,Meta
+2026-04-16,ORD-3EFAEE,Advanced_Chip,14,Best Buy
+2026-04-17,ORD-A1603B,Advanced_Chip,26,Tesla
+2026-04-18,ORD-C9F725,Advanced_Chip,71,Meta
+2026-04-19,ORD-6F84C4,Advanced_Chip,48,Microsoft
+2026-04-20,ORD-D9C54B,Advanced_Chip,21,ASUS
+2026-04-21,ORD-7050D5,Advanced_Chip,26,Microsoft
+2026-04-22,ORD-4DF842,Advanced_Chip,84,Tesla
+2026-04-23,ORD-3263DA,Advanced_Chip,39,Dell
+2026-04-24,ORD-B21A90,Advanced_Chip,88,Siemens
+2026-04-25,ORD-B15E78,Advanced_Chip,26,Siemens
+2026-04-26,ORD-FDA3AE,Advanced_Chip,75,Tesla
+2026-04-27,ORD-2B2E88,Advanced_Chip,64,Dell
+2026-04-28,ORD-5CDD48,Advanced_Chip,13,Siemens
+2026-04-29,ORD-8E98C8,Advanced_Chip,59,ASUS
+2026-04-30,ORD-B6DE49,Advanced_Chip,70,Meta
+2026-05-01,ORD-F0EE09,Advanced_Chip,55,ASUS
+2026-05-03,ORD-706B55,Advanced_Chip,72,ASUS
+2026-05-05,ORD-EE37E1,Advanced_Chip,37,Siemens
+2026-05-07,ORD-00894F,Advanced_Chip,27,ASUS
+2026-05-08,ORD-8E0CAF,Advanced_Chip,37,Meta
+2026-05-10,ORD-291F71,Advanced_Chip,19,Best Buy
+2026-05-11,ORD-0695B8,Advanced_Chip,43,Dell
+2026-05-12,ORD-F4A453,Advanced_Chip,15,Best Buy
+2026-05-13,ORD-190233,Advanced_Chip,42,Foxconn
+2026-05-14,ORD-50DD0C,Advanced_Chip,13,Dell
+2026-05-16,ORD-3F402E,Advanced_Chip,75,ASUS
+2026-05-17,ORD-116563,Advanced_Chip,60,Foxconn
+2026-05-18,ORD-A40A6D,Advanced_Chip,54,Best Buy
+2026-05-19,ORD-B6CD6F,Advanced_Chip,29,Tesla
+2026-05-20,ORD-03529E,Advanced_Chip,20,Best Buy
+2026-05-21,ORD-C3DA20,Advanced_Chip,19,Microsoft
+2026-05-22,ORD-0DF814,Advanced_Chip,74,ASUS
+2026-05-23,ORD-24E986,Advanced_Chip,47,Tesla
+2026-05-24,ORD-E045BB,Advanced_Chip,59,Dell
+2026-05-25,ORD-13C597,Advanced_Chip,10,ASUS
+2026-05-26,ORD-A114FC,Advanced_Chip,20,Siemens
+2026-05-27,ORD-2E64F2,Advanced_Chip,14,Best Buy
+2026-05-28,ORD-B96943,Advanced_Chip,51,Best Buy
+2026-05-29,ORD-880C0C,Advanced_Chip,60,Siemens
+2026-05-30,ORD-30A84D,Advanced_Chip,26,Dell
+2026-05-31,ORD-BB08F6,Advanced_Chip,48,Meta
+2026-06-01,ORD-AAD9BC,Advanced_Chip,24,Siemens
+2026-06-02,ORD-FC15AC,Advanced_Chip,38,Meta
+2026-06-03,ORD-56BE4A,Advanced_Chip,77,Siemens
+2026-06-04,ORD-812479,Advanced_Chip,47,Dell
+2026-06-05,ORD-32F6E6,Advanced_Chip,14,Microsoft
+2026-06-07,ORD-ABBCB3,Advanced_Chip,29,Microsoft
+2026-06-08,ORD-FAD99E,Advanced_Chip,56,Dell
+2026-06-09,ORD-326DFF,Advanced_Chip,69,Microsoft
+2026-06-10,ORD-8FBDEF,Advanced_Chip,81,Foxconn
+2026-06-11,ORD-1A2741,Advanced_Chip,38,Microsoft
+2026-06-12,ORD-B2B65F,Advanced_Chip,30,Tesla
+2026-06-13,ORD-8B47BB,Advanced_Chip,64,Siemens
+2026-06-14,ORD-D2B3E8,Advanced_Chip,83,Foxconn
+2026-06-15,ORD-CF8ADE,Advanced_Chip,47,Foxconn
+2026-06-16,ORD-AA2035,Advanced_Chip,52,Dell
+2026-06-17,ORD-2D1FEA,Advanced_Chip,61,Dell
+2026-06-18,ORD-D0C11B,Advanced_Chip,31,Meta
+2026-06-19,ORD-F4E4FA,Advanced_Chip,58,Tesla
+2026-06-20,ORD-CD219A,Advanced_Chip,58,Dell
+2026-06-21,ORD-C1C599,Advanced_Chip,65,Best Buy
+2026-06-23,ORD-1F255C,Advanced_Chip,56,Tesla
+2026-06-24,ORD-55AD1A,Advanced_Chip,72,Tesla
+2026-06-25,ORD-F5B329,Advanced_Chip,19,Dell
+2026-06-26,ORD-3E9F3E,Advanced_Chip,41,Microsoft
+2026-06-27,ORD-48CFAF,Advanced_Chip,68,Foxconn
+2026-06-28,ORD-C65893,Advanced_Chip,60,Meta
+2026-06-29,ORD-21BAB4,Advanced_Chip,87,Meta
+2026-06-30,ORD-9CFC87,Advanced_Chip,23,Meta
+2026-07-02,ORD-C0C358,Advanced_Chip,69,ASUS
+2026-07-03,ORD-86C472,Advanced_Chip,11,Tesla
+2026-07-04,ORD-FFA48C,Advanced_Chip,18,Best Buy
+2026-07-05,ORD-3E162D,Advanced_Chip,83,Meta
+2026-07-06,ORD-798192,Advanced_Chip,23,Meta
+2026-07-07,ORD-3550C1,Advanced_Chip,31,Siemens
+2026-07-08,ORD-B29DD5,Advanced_Chip,46,Microsoft
+2026-07-09,ORD-014611,Advanced_Chip,50,Tesla
+2026-07-10,ORD-FCDD3E,Advanced_Chip,36,Siemens
+2026-07-11,ORD-2E8B55,Advanced_Chip,62,Siemens
+2026-07-12,ORD-8365F0,Advanced_Chip,55,Siemens
+2026-07-13,ORD-2E2E8B,Advanced_Chip,62,Meta
+2026-07-14,ORD-6386E6,Advanced_Chip,20,Best Buy
+2026-07-15,ORD-DB8C95,Advanced_Chip,33,ASUS
+2026-07-16,ORD-B4A7B3,Advanced_Chip,71,ASUS
+2026-07-17,ORD-4AFA48,Advanced_Chip,82,Dell
+2026-07-18,ORD-1C1E0E,Advanced_Chip,34,Meta
+2026-07-20,ORD-1A6EA5,Advanced_Chip,68,ASUS
+2026-07-21,ORD-1F8606,Advanced_Chip,71,Meta
+2026-07-22,ORD-1E0F4B,Advanced_Chip,89,Siemens
+2026-07-23,ORD-8CD704,Advanced_Chip,35,Meta
+2026-07-24,ORD-2C0DA8,Advanced_Chip,80,Microsoft
+2026-07-26,ORD-F9C4DA,Advanced_Chip,48,Siemens
+2026-07-27,ORD-59631B,Advanced_Chip,69,Dell
+2026-07-28,ORD-40B2BD,Advanced_Chip,48,Microsoft
+2026-07-29,ORD-EF226B,Advanced_Chip,42,Meta

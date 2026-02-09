@@ -1,0 +1,188 @@
+week,order_id,customer_name,market_segment,priority,quantity,allocated_qty,status
+2026-W01,ORD-7A3834,Dell,Pro Viz,5,84,84,Full
+2026-W01,ORD-0C11DA,Best Buy,Gaming Retail,9,67,0,Unfulfilled
+2026-W02,ORD-859D24,Meta,Data Center,1,64,64,Full
+2026-W02,ORD-9BFB54,Meta,Data Center,1,23,23,Full
+2026-W02,ORD-EE817D,Microsoft,Data Center,1,13,13,Full
+2026-W02,ORD-0E8626,Tesla,Automotive,2,18,18,Full
+2026-W02,ORD-2B506E,Siemens,Healthcare,3,80,80,Full
+2026-W02,ORD-29E78E,ASUS,Gaming OEM,7,45,45,Full
+2026-W02,ORD-8B9281,ASUS,Gaming OEM,7,48,48,Full
+2026-W03,ORD-54F6AC,Meta,Data Center,1,71,71,Full
+2026-W03,ORD-5CC17C,Foxconn,Industrial,4,35,35,Full
+2026-W03,ORD-D431F3,Dell,Pro Viz,5,44,44,Full
+2026-W03,ORD-AA4609,ASUS,Gaming OEM,7,50,50,Full
+2026-W04,ORD-DF17D5,Meta,Data Center,1,80,80,Full
+2026-W04,ORD-F83D96,Meta,Data Center,1,66,66,Full
+2026-W04,ORD-756CE4,Microsoft,Data Center,1,32,32,Full
+2026-W04,ORD-B17334,Siemens,Healthcare,3,23,23,Full
+2026-W04,ORD-A771D8,Dell,Pro Viz,5,71,71,Full
+2026-W04,ORD-A940DD,Dell,Pro Viz,5,36,36,Full
+2026-W05,ORD-AE3DEE,Microsoft,Data Center,1,71,71,Full
+2026-W05,ORD-2F9A19,Tesla,Automotive,2,88,88,Full
+2026-W05,ORD-F73269,Tesla,Automotive,2,65,65,Full
+2026-W05,ORD-2CE226,Siemens,Healthcare,3,41,41,Full
+2026-W05,ORD-79EB3C,Foxconn,Industrial,4,36,36,Full
+2026-W05,ORD-FE728A,Foxconn,Industrial,4,10,10,Full
+2026-W05,ORD-547C04,Best Buy,Gaming Retail,9,33,0,Unfulfilled
+2026-W06,ORD-2E8BAA,Meta,Data Center,1,10,10,Full
+2026-W06,ORD-488B7A,Microsoft,Data Center,1,57,57,Full
+2026-W06,ORD-702F24,Microsoft,Data Center,1,25,25,Full
+2026-W06,ORD-B19876,Tesla,Automotive,2,80,80,Full
+2026-W06,ORD-F8CBE7,Siemens,Healthcare,3,68,68,Full
+2026-W06,ORD-E14FB1,Dell,Pro Viz,5,16,16,Full
+2026-W06,ORD-37447D,ASUS,Gaming OEM,7,28,28,Full
+2026-W07,ORD-82A16F,Tesla,Automotive,2,84,84,Full
+2026-W07,ORD-151CAF,Siemens,Healthcare,3,44,44,Full
+2026-W07,ORD-1BAAD8,Foxconn,Industrial,4,34,34,Full
+2026-W07,ORD-A1526C,Foxconn,Industrial,4,37,37,Full
+2026-W07,ORD-CEC5F8,Foxconn,Industrial,4,57,57,Full
+2026-W07,ORD-791BC5,Dell,Pro Viz,5,47,47,Full
+2026-W07,ORD-6F7EC3,ASUS,Gaming OEM,7,57,57,Full
+2026-W08,ORD-157426,Microsoft,Data Center,1,69,69,Full
+2026-W08,ORD-4FF386,Microsoft,Data Center,1,33,33,Full
+2026-W08,ORD-86F42D,Microsoft,Data Center,1,51,51,Full
+2026-W08,ORD-0110AB,Foxconn,Industrial,4,15,15,Full
+2026-W08,ORD-AFEE19,Dell,Pro Viz,5,27,27,Full
+2026-W08,ORD-486B05,Best Buy,Gaming Retail,9,26,0,Unfulfilled
+2026-W08,ORD-D44CD9,Best Buy,Gaming Retail,9,44,0,Unfulfilled
+2026-W09,ORD-26B01A,Foxconn,Industrial,4,16,16,Full
+2026-W09,ORD-C53ACB,Foxconn,Industrial,4,17,17,Full
+2026-W09,ORD-1A16E4,Dell,Pro Viz,5,58,58,Full
+2026-W09,ORD-40D6B0,Dell,Pro Viz,5,39,39,Full
+2026-W09,ORD-DEB1E6,Dell,Pro Viz,5,72,72,Full
+2026-W09,ORD-F0B68D,ASUS,Gaming OEM,7,85,85,Full
+2026-W10,ORD-186B20,Meta,Data Center,1,48,48,Full
+2026-W10,ORD-2DBD21,Foxconn,Industrial,4,57,57,Full
+2026-W10,ORD-F4B121,Dell,Pro Viz,5,64,64,Full
+2026-W10,ORD-2401A6,ASUS,Gaming OEM,7,78,78,Full
+2026-W10,ORD-5524B9,Best Buy,Gaming Retail,9,21,0,Unfulfilled
+2026-W10,ORD-BFECFE,Best Buy,Gaming Retail,9,66,0,Unfulfilled
+2026-W11,ORD-21AC4B,Meta,Data Center,1,43,43,Full
+2026-W11,ORD-D3C006,Microsoft,Data Center,1,41,41,Full
+2026-W11,ORD-E889D9,Tesla,Automotive,2,78,78,Full
+2026-W11,ORD-A35359,Foxconn,Industrial,4,83,83,Full
+2026-W11,ORD-8B2DA1,Dell,Pro Viz,5,42,42,Full
+2026-W11,ORD-8F3A9C,Best Buy,Gaming Retail,9,11,0,Unfulfilled
+2026-W12,ORD-50D6F0,Meta,Data Center,1,45,45,Full
+2026-W12,ORD-ED57C1,Microsoft,Data Center,1,26,26,Full
+2026-W12,ORD-C3C535,Siemens,Healthcare,3,28,28,Full
+2026-W12,ORD-E59136,Siemens,Healthcare,3,45,45,Full
+2026-W12,ORD-B96312,Foxconn,Industrial,4,16,16,Full
+2026-W12,ORD-0B27DB,ASUS,Gaming OEM,7,46,46,Full
+2026-W13,ORD-BEABD4,Meta,Data Center,1,27,27,Full
+2026-W13,ORD-7F02CB,Siemens,Healthcare,3,16,16,Full
+2026-W13,ORD-FD85BB,Dell,Pro Viz,5,32,32,Full
+2026-W13,ORD-483432,ASUS,Gaming OEM,7,48,48,Full
+2026-W13,ORD-3C8C3D,Best Buy,Gaming Retail,9,75,0,Unfulfilled
+2026-W13,ORD-709404,Best Buy,Gaming Retail,9,25,0,Unfulfilled
+2026-W13,ORD-F91354,Best Buy,Gaming Retail,9,74,0,Unfulfilled
+2026-W14,ORD-3C3974,Microsoft,Data Center,1,83,83,Full
+2026-W14,ORD-13FB94,Dell,Pro Viz,5,45,45,Full
+2026-W14,ORD-231A7A,ASUS,Gaming OEM,7,12,12,Full
+2026-W14,ORD-538C72,ASUS,Gaming OEM,7,67,67,Full
+2026-W14,ORD-779B44,Best Buy,Gaming Retail,9,84,0,Unfulfilled
+2026-W15,ORD-F28F26,Microsoft,Data Center,1,14,14,Full
+2026-W15,ORD-33AB01,Tesla,Automotive,2,73,73,Full
+2026-W15,ORD-4713EA,Siemens,Healthcare,3,78,78,Full
+2026-W15,ORD-FE3EBE,Foxconn,Industrial,4,45,45,Full
+2026-W15,ORD-911525,Dell,Pro Viz,5,38,38,Full
+2026-W15,ORD-B90621,ASUS,Gaming OEM,7,12,12,Full
+2026-W16,ORD-4FBB77,Microsoft,Data Center,1,26,26,Full
+2026-W16,ORD-619132,Microsoft,Data Center,1,48,48,Full
+2026-W16,ORD-8356D0,Microsoft,Data Center,1,58,58,Full
+2026-W16,ORD-44CE6A,Tesla,Automotive,2,14,14,Full
+2026-W16,ORD-6BAF9D,Dell,Pro Viz,5,58,58,Full
+2026-W16,ORD-8C0C4E,Best Buy,Gaming Retail,9,71,0,Unfulfilled
+2026-W16,ORD-97A9EC,Best Buy,Gaming Retail,9,30,0,Unfulfilled
+2026-W17,ORD-4BEE14,Meta,Data Center,1,88,88,Full
+2026-W17,ORD-4F6BB4,Microsoft,Data Center,1,26,26,Full
+2026-W17,ORD-817528,Siemens,Healthcare,3,75,75,Full
+2026-W17,ORD-41F8D7,Foxconn,Industrial,4,21,21,Full
+2026-W17,ORD-937264,Foxconn,Industrial,4,39,39,Full
+2026-W17,ORD-36148A,Dell,Pro Viz,5,84,84,Full
+2026-W17,ORD-F74EF1,Best Buy,Gaming Retail,9,26,0,Unfulfilled
+2026-W18,ORD-308DE3,Microsoft,Data Center,1,64,64,Full
+2026-W18,ORD-CCB8F0,Tesla,Automotive,2,70,70,Full
+2026-W18,ORD-533EF9,Foxconn,Industrial,4,72,72,Full
+2026-W18,ORD-5F5C99,Foxconn,Industrial,4,55,55,Full
+2026-W18,ORD-E00F26,Foxconn,Industrial,4,59,59,Full
+2026-W18,ORD-7C71AB,Dell,Pro Viz,5,13,13,Full
+2026-W19,ORD-4B8AF6,Meta,Data Center,1,37,37,Full
+2026-W19,ORD-CB72BF,Tesla,Automotive,2,37,37,Full
+2026-W19,ORD-A3314A,Best Buy,Gaming Retail,9,19,0,Unfulfilled
+2026-W19,ORD-F995B2,Best Buy,Gaming Retail,9,27,0,Unfulfilled
+2026-W20,ORD-C2B45F,Meta,Data Center,1,75,75,Full
+2026-W20,ORD-EEACAE,Meta,Data Center,1,15,15,Full
+2026-W20,ORD-907D69,Microsoft,Data Center,1,42,42,Full
+2026-W20,ORD-0BE39D,Tesla,Automotive,2,43,43,Full
+2026-W20,ORD-150391,Foxconn,Industrial,4,60,60,Full
+2026-W20,ORD-638971,ASUS,Gaming OEM,7,13,13,Full
+2026-W21,ORD-7563C3,Microsoft,Data Center,1,74,74,Full
+2026-W21,ORD-046939,Tesla,Automotive,2,29,29,Full
+2026-W21,ORD-573B6E,Tesla,Automotive,2,20,20,Full
+2026-W21,ORD-6CC8D8,Tesla,Automotive,2,59,59,Full
+2026-W21,ORD-FD4DCB,Tesla,Automotive,2,47,47,Full
+2026-W21,ORD-B4ECD8,Foxconn,Industrial,4,19,19,Full
+2026-W21,ORD-6D9C33,ASUS,Gaming OEM,7,54,54,Full
+2026-W22,ORD-231B12,Meta,Data Center,1,60,60,Full
+2026-W22,ORD-71BCE7,Microsoft,Data Center,1,10,10,Full
+2026-W22,ORD-EB1A3C,Microsoft,Data Center,1,26,26,Full
+2026-W22,ORD-3FDAE0,Tesla,Automotive,2,51,51,Full
+2026-W22,ORD-D7B2B2,Foxconn,Industrial,4,48,48,Full
+2026-W22,ORD-1B5D91,Dell,Pro Viz,5,14,14,Full
+2026-W22,ORD-52BE25,Best Buy,Gaming Retail,9,20,0,Unfulfilled
+2026-W23,ORD-5A1955,Microsoft,Data Center,1,24,24,Full
+2026-W23,ORD-56415D,Tesla,Automotive,2,14,14,Full
+2026-W23,ORD-12E3B7,Siemens,Healthcare,3,47,47,Full
+2026-W23,ORD-FC4973,Dell,Pro Viz,5,29,29,Full
+2026-W23,ORD-025BB2,Best Buy,Gaming Retail,9,77,0,Unfulfilled
+2026-W23,ORD-B115E8,Best Buy,Gaming Retail,9,38,0,Unfulfilled
+2026-W24,ORD-6CF386,Microsoft,Data Center,1,69,69,Full
+2026-W24,ORD-0EBEEB,Tesla,Automotive,2,64,64,Full
+2026-W24,ORD-6A0CB9,Tesla,Automotive,2,81,81,Full
+2026-W24,ORD-C7456A,Tesla,Automotive,2,56,56,Full
+2026-W24,ORD-3BF510,Siemens,Healthcare,3,30,30,Full
+2026-W24,ORD-7804C7,Siemens,Healthcare,3,83,83,Full
+2026-W24,ORD-B4A324,Foxconn,Industrial,4,38,38,Full
+2026-W25,ORD-097E3B,Microsoft,Data Center,1,52,52,Full
+2026-W25,ORD-93BA2A,Tesla,Automotive,2,65,65,Full
+2026-W25,ORD-4F693A,Siemens,Healthcare,3,47,47,Full
+2026-W25,ORD-B7F976,Foxconn,Industrial,4,58,58,Full
+2026-W25,ORD-9194AF,ASUS,Gaming OEM,7,31,31,Full
+2026-W25,ORD-132213,Best Buy,Gaming Retail,9,58,0,Unfulfilled
+2026-W25,ORD-F7AA38,Best Buy,Gaming Retail,9,61,0,Unfulfilled
+2026-W26,ORD-6065C7,Meta,Data Center,1,68,68,Full
+2026-W26,ORD-E7B1FA,Microsoft,Data Center,1,41,41,Full
+2026-W26,ORD-75C039,Dell,Pro Viz,5,19,19,Full
+2026-W26,ORD-D6A293,Dell,Pro Viz,5,60,60,Full
+2026-W26,ORD-E1FA62,Dell,Pro Viz,5,56,56,Full
+2026-W26,ORD-86B7E7,ASUS,Gaming OEM,7,72,72,Full
+2026-W27,ORD-3F2D5D,Meta,Data Center,1,18,18,Full
+2026-W27,ORD-3C129F,Siemens,Healthcare,3,11,11,Full
+2026-W27,ORD-C8228D,Dell,Pro Viz,5,69,69,Full
+2026-W27,ORD-4E96ED,ASUS,Gaming OEM,7,83,83,Full
+2026-W27,ORD-65ED6C,ASUS,Gaming OEM,7,23,23,Full
+2026-W27,ORD-AE947D,Best Buy,Gaming Retail,9,87,0,Unfulfilled
+2026-W28,ORD-4C34B2,Meta,Data Center,1,62,62,Full
+2026-W28,ORD-3AD37E,Microsoft,Data Center,1,36,36,Full
+2026-W28,ORD-DD2D79,Microsoft,Data Center,1,50,50,Full
+2026-W28,ORD-4485B7,Tesla,Automotive,2,55,55,Full
+2026-W28,ORD-401B68,ASUS,Gaming OEM,7,46,13,Partial
+2026-W28,ORD-00D97B,Best Buy,Gaming Retail,9,31,0,Unfulfilled
+2026-W28,ORD-5BDE70,Best Buy,Gaming Retail,9,23,0,Unfulfilled
+2026-W29,ORD-AEF933,Meta,Data Center,1,20,20,Full
+2026-W29,ORD-4AC0AE,Tesla,Automotive,2,71,71,Full
+2026-W29,ORD-B4F3E6,Tesla,Automotive,2,33,33,Full
+2026-W29,ORD-16B38F,Foxconn,Industrial,4,82,82,Full
+2026-W29,ORD-C0C0F1,Dell,Pro Viz,5,62,62,Full
+2026-W29,ORD-16AB57,Best Buy,Gaming Retail,9,34,0,Unfulfilled
+2026-W30,ORD-BDDC44,Meta,Data Center,1,35,35,Full
+2026-W30,ORD-18C33A,Tesla,Automotive,2,48,48,Full
+2026-W30,ORD-63EDD5,Siemens,Healthcare,3,89,89,Full
+2026-W30,ORD-BC957C,Siemens,Healthcare,3,80,80,Full
+2026-W30,ORD-075F2C,Best Buy,Gaming Retail,9,68,0,Unfulfilled
+2026-W30,ORD-6417A5,Best Buy,Gaming Retail,9,71,0,Unfulfilled
+2026-W31,ORD-625E84,Meta,Data Center,1,42,42,Full
+2026-W31,ORD-D6CC07,Meta,Data Center,1,48,48,Full
+2026-W31,ORD-62181E,Foxconn,Industrial,4,69,69,Full
