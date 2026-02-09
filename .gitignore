@@ -1,0 +1,7 @@
+echo ".DS_Store" >> .gitignore
+echo "~$*.xlsx" >> .gitignore
+echo "*.csv" >> .gitignore
+echo "*.xlsx" >> .gitignore
+# Note: We ignore CSVs/Excel outputs because usually we only want Code in git, not Data.
+# BUT since this is a demo, you might want to keep the final reports. 
+# If you want to KEEP the reports, skip the last two lines.
