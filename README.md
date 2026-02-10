@@ -1,4 +1,4 @@
-# Supply Chain Constraint & Allocation Engine
+# Supply Chain Allocation Engine
 
 ### **Automated Clear-to-Build (CTB) System with FIFO Backlog Management**
 
